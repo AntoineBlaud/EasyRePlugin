@@ -1,3 +1,11 @@
+---
+
+⚠️ **Important Note:** ⚠️
+
+**Notice:** This project is deprecated and no longer actively maintained. For a more comprehensive and feature-rich alternative, we recommend checking out [The Codex Rebirth](https://github.com/AntoineBlaud/TheCodexRebirth), which includes Step Tracing functionality and provides a more advanced and up-to-date solution. We encourage you to migrate to The Codex Rebirth for better performance and a wider range of features.
+
+---
+
 # EasyRe plugin
 
 ![tags](https://img.shields.io/badge/tags-%20ida%20ida--pro%2C%20ida--plugin%2C%20idapython-blue) ![arch](https://img.shields.io/badge/arch-x86/x64-lightgrey) ![version](https://img.shields.io/badge/version-0.2-yellowgreen)
